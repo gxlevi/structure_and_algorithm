@@ -1,7 +1,5 @@
 package com.gxlevi.linklist;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 public class Josepfu {
     public static void main(String[] args) {
         //测试 看看构建环形链表,和遍历是否成功
