@@ -17,7 +17,8 @@ public class PolandNotation {
         //  即 "1+((2+3)*4)-5"=>ArrayList[1,+,(,(,2,+,3,),*,4,),-,5]
         //3.将得到的中缀表达式对应的list => 后缀表达式对应的list
         //  即 [1,+,(,(,2,+,3,),*,4,),-,5] => [1,2,3,+,4*,+5,-]
-        String expression = "1+((2+3)*4)-5";
+//        String expression = "1+((2+3)*4)-5";
+        String expression = "1+(2*3+1)*2-10*2";
         List<String> infixExpressionList = toInfixExpressionList(expression);
         System.out.println("中缀表达式对应的list" + infixExpressionList);
 
