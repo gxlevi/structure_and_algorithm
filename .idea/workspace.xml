@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab728f42-ff2f-425b-af68-ff7652dd8273" name="Default Changelist" comment="" />
+    <list default="true" id="ab728f42-ff2f-425b-af68-ff7652dd8273" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gxlevi/stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxlevi/stack/PolandNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gxlevi/linklist/Boy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gxlevi/linklist/Boy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gxlevi/linklist/CircleSingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gxlevi/linklist/CircleSingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gxlevi/linklist/Josepfu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gxlevi/linklist/Josepfu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gxlevi/stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gxlevi/stack/PolandNotation.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +26,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,6 +48,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cyA8hqS2sX5i30qALTtGUDpEk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,15 +57,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gxlevi/stack" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.1710286" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\dataStructure\src\main\java\com\gxlevi\stack" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.PolandNotation">
     <configuration name="ArrayStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -98,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Josepfu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.linklist.Josepfu" />
+    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.stack.PolandNotation" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxlevi.linklist.*" />
+          <option name="PATTERN" value="com.gxlevi.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.stack.PolandNotation" />
+    <configuration name="PolandNotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.stack.PolandNotation1" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
@@ -127,10 +142,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.PolandNotation" />
+        <item itemvalue="Application.PolandNotation1" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ArrayStackDemo2" />
         <item itemvalue="Application.ArrayStackDemo" />
-        <item itemvalue="Application.Josepfu" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +173,12 @@
       <workItem from="1592567222299" duration="1540000" />
       <workItem from="1592609778142" duration="16395000" />
       <workItem from="1592638333292" duration="6554000" />
+      <workItem from="1592651580772" duration="1123000" />
+      <workItem from="1592658994809" duration="216000" />
+      <workItem from="1592659877516" duration="1245000" />
+      <workItem from="1592699552501" duration="13506000" />
+      <workItem from="1592737775267" duration="612000" />
+      <workItem from="1592742638195" duration="1206000" />
     </task>
     <servers />
   </component>
@@ -169,63 +190,79 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592619721213" />
-    <state width="529" height="466" key="DebuggerActiveHint" timestamp="1592636130757">
+    <state width="529" height="466" key="DebuggerActiveHint" timestamp="1592711531659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1592636130757" />
+    <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1592711531659" />
     <state x="847" y="278" key="FileChooserDialogImpl" timestamp="1592196414908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="847" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592196414908" />
-    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1592651185066">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1592748075227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592651185066" />
-    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1592651185066">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592748075227" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1592748075227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592651185066" />
-    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1592651185066">
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592748075227" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1592748075227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592651185066" />
-    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1592651185066">
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592748075227" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1592748075227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592651185066" />
-    <state width="913" height="331" key="GridCell.Tab.1.bottom" timestamp="1592638329027">
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592748075227" />
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1592733295339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="913" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592638329027" />
-    <state width="913" height="331" key="GridCell.Tab.1.center" timestamp="1592638329027">
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592733295339" />
+    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1592733295339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="913" height="331" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592638329027" />
-    <state width="913" height="331" key="GridCell.Tab.1.left" timestamp="1592638329027">
+    <state width="1877" height="331" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592733295339" />
+    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1592733295339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="913" height="331" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592638329027" />
-    <state width="913" height="331" key="GridCell.Tab.1.right" timestamp="1592638329027">
+    <state width="1877" height="331" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592733295339" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1592733295339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="913" height="331" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592638329027" />
-    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1592638397042">
+    <state width="1877" height="331" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592733295339" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1592700146501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591512257699" />
-    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592638397042" />
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592700146501" />
     <state x="396" y="169" key="SettingsEditor" timestamp="1592638361597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="396" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592638361597" />
+    <state x="953" y="62" width="974" height="985" key="dock-window-1" timestamp="1592714611729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="62" width="974" height="985" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1592714611729" />
+    <state x="953" y="0" width="974" height="1049" key="dock-window-2" timestamp="1592714611729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1049" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1592714611729" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-3" timestamp="1592715382232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1592715382232" />
     <state x="442" y="184" key="new project wizard" timestamp="1592196429910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="184" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592196429910" />
+    <state x="780" y="268" key="run.anything.popup" timestamp="1592742599557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="268" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592742599557" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591879509843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
