@@ -1,7 +1,5 @@
 package com.gxlevi.sparseArray;
 
-import com.sun.xml.internal.bind.v2.runtime.output.FastInfosetStreamWriterOutput;
-
 public class SparseArray {
     public static void main(String[] args) {
         //创建一个原始的二维数组11*11
