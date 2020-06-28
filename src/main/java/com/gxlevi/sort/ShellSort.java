@@ -6,6 +6,8 @@ import java.util.Date;
 
 /**
  * 希尔排序
+ *
+ * 分组进行插入排序
  */
 public class ShellSort {
     public static void main(String[] args) {
