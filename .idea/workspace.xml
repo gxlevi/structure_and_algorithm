@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab728f42-ff2f-425b-af68-ff7652dd8273" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gxlevi/stack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gxlevi/tree" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -65,16 +66,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\structure_and_algorithm\src\main\java\com\gxlevi\tree" />
       <recent name="D:\project\dataStructure\src\main\java\com\gxlevi\stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MiGong">
-    <configuration name="Josepful1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.linklist.Josepful1" />
-      <module name="dataStructure" />
+  <component name="RunManager" selected="Application.ArrBinaryTreeDemo">
+    <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.tree.ArrBinaryTreeDemo" />
+      <module name="structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxlevi.linklist.*" />
+          <option name="PATTERN" value="com.gxlevi.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.recursion.MiGong" />
-      <module name="dataStructure" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.select.BinarySearch" />
+      <module name="structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxlevi.recursion.*" />
+          <option name="PATTERN" value="com.gxlevi.select.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.stack.PolandNotation" />
-      <module name="dataStructure" />
+    <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.tree.BinaryTreeDemo" />
+      <module name="structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxlevi.stack.*" />
+          <option name="PATTERN" value="com.gxlevi.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolandNotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.stack.PolandNotation1" />
-      <module name="dataStructure" />
+    <configuration name="HashTabDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.hashtab.HashTabDemo" />
+      <module name="structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxlevi.stack.*" />
+          <option name="PATTERN" value="com.gxlevi.hashtab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gxlevi.recursion.RecursionDemo" />
-      <module name="dataStructure" />
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxlevi.hashtab.HashTable" />
+      <module name="structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxlevi.recursion.*" />
+          <option name="PATTERN" value="com.gxlevi.hashtab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MiGong" />
-        <item itemvalue="Application.RecursionDemo" />
-        <item itemvalue="Application.Josepful1" />
-        <item itemvalue="Application.PolandNotation1" />
-        <item itemvalue="Application.PolandNotation" />
+        <item itemvalue="Application.ArrBinaryTreeDemo" />
+        <item itemvalue="Application.BinaryTreeDemo" />
+        <item itemvalue="Application.HashTabDemo" />
+        <item itemvalue="Application.HashTable" />
+        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +178,8 @@
       <workItem from="1592742638195" duration="1206000" />
       <workItem from="1592785267286" duration="43000" />
       <workItem from="1592795809471" duration="13291000" />
+      <workItem from="1593515941958" duration="11257000" />
+      <workItem from="1593607811858" duration="4872000" />
     </task>
     <servers />
   </component>
@@ -183,59 +187,59 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592805738275">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1593612389950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592805738275" />
-    <state width="529" height="466" key="DebuggerActiveHint" timestamp="1592797870675">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593612389950" />
+    <state width="529" height="466" key="DebuggerActiveHint" timestamp="1593610471707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1592797870675" />
+    <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593610471707" />
     <state x="847" y="278" key="FileChooserDialogImpl" timestamp="1592196414908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="847" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592196414908" />
-    <state width="910" height="330" key="GridCell.Tab.0.bottom" timestamp="1592824177843">
+    <state width="914" height="189" key="GridCell.Tab.0.bottom" timestamp="1593612996790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="910" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177843" />
-    <state width="910" height="330" key="GridCell.Tab.0.center" timestamp="1592824177843">
+    <state width="914" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593612996790" />
+    <state width="914" height="189" key="GridCell.Tab.0.center" timestamp="1593612996790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="910" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177843" />
-    <state width="910" height="330" key="GridCell.Tab.0.left" timestamp="1592824177843">
+    <state width="914" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593612996790" />
+    <state width="914" height="189" key="GridCell.Tab.0.left" timestamp="1593612996790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="910" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177843" />
-    <state width="910" height="330" key="GridCell.Tab.0.right" timestamp="1592824177843">
+    <state width="914" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593612996790" />
+    <state width="914" height="189" key="GridCell.Tab.0.right" timestamp="1593612996790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591515180243" />
-    <state width="910" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177843" />
-    <state width="910" height="330" key="GridCell.Tab.1.bottom" timestamp="1592824177788">
+    <state width="914" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593612996790" />
+    <state width="914" height="288" key="GridCell.Tab.1.bottom" timestamp="1593612094513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177788" />
-    <state width="910" height="330" key="GridCell.Tab.1.center" timestamp="1592824177788">
+    <state width="914" height="288" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593612094513" />
+    <state width="914" height="288" key="GridCell.Tab.1.center" timestamp="1593612094513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177788" />
-    <state width="910" height="330" key="GridCell.Tab.1.left" timestamp="1592824177788">
+    <state width="914" height="288" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593612094513" />
+    <state width="914" height="288" key="GridCell.Tab.1.left" timestamp="1593612094513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177788" />
-    <state width="910" height="330" key="GridCell.Tab.1.right" timestamp="1592824177788">
+    <state width="914" height="288" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593612094513" />
+    <state width="914" height="288" key="GridCell.Tab.1.right" timestamp="1593612094513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592824177788" />
-    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1592817176446">
+    <state width="914" height="288" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593612094513" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1593608088380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591512257699" />
-    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592817176446" />
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593608088380" />
     <state x="396" y="169" key="SettingsEditor" timestamp="1592638361597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -260,11 +264,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="780" y="268" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592742599557" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592813048005">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593522349437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-853.-2160.2560.1400@0.0.1920.1040" timestamp="1591499229068" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592813048005" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593522349437" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
